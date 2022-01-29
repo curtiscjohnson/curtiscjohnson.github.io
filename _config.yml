@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : 
+title                    : "                "
 title_separator          : 
 name                     : &name "Curtis C Johnson"
 description              : &description ""
@@ -84,7 +84,7 @@ author:
   avatar           : "headshot.jpg"
   bio              : "PhD Student in Robotics and Controls"
   location         : "Provo, Utah"
-  employer         :
+  employer         : "Brigham Young University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2jgbHXMAAAAJ&hl=en"
   email            : "curtiscarljohnson@gmail.com"
