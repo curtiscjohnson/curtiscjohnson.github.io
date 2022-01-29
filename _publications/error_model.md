@@ -5,11 +5,6 @@ permalink:
 excerpt: 
 date: 2010-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://dx.doi.org/10.3389%2Ffrobt.2021.654398'
+citation: 'Johnson CC, Quackenbush T, Sorensen T, Wingate D and Killpack MD (2021) Using First Principles for Deep Learning and Model-Based Control of Soft Robots. Front. Robot. AI 8:654398. doi: 10.3389/frobt.2021.654398'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
