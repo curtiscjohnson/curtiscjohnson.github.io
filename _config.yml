@@ -76,8 +76,6 @@ analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
     tracking_id          : 
-  goatcounter:
-    code		 : jayrobwilliams
 
 
 # Site Author
@@ -85,7 +83,7 @@ author:
   name             : "Curtis C. Johnson"
   avatar           : "headshot.jpg"
   bio              : "PhD Student in Robotics and Controls"
-  location         : "Provo, Utah"
+  location         : 
   employer         : "Brigham Young University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2jgbHXMAAAAJ&hl=en"
@@ -98,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/curtiscjohnson"
+  github           : "curtiscjohnson"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/curtiscjohnson1/"
+  linkedin         : "curtiscjohnson1"
   orcid            : "https://orcid.org/0000-0001-9556-9483"
   pinterest        :
   soundcloud       :
