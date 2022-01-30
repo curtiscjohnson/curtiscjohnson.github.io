@@ -3,17 +3,10 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
-header:
-  og_image: ""
 ---
 
-<!-- {% include base_path %}
 
-{% for post in site.projects reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
-<!-- My research falls into two main areas: understanding the influence of geography
+My research falls into two main areas: understanding the influence of geography
 on actor behavior before, during, and after civil conflict, and developing new
 tools to improve the study of institutions (both formal and informal) in peace
 and conflict. One strand of research in this first area explores how the
@@ -34,13 +27,3 @@ economic interdependence and illicit economic exchange.
 In a new avenue of research, I leverage social media data to explore
 participation in extremist movements across multiple contexts, gaining insight
 into the early stages of radicalization.
-
-<nbsp>
-
-{% include base_path %}
-
-{% assign ordered_pages = site.research | sort:"order_number" %}
-
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %} -->
