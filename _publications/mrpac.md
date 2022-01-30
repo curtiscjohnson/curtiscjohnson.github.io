@@ -2,8 +2,8 @@
 title:  "Model Reference Predictive Adaptive Control for Large-Scale Soft Robots"
 collection: publications
 permalink: /publication/2020-mrpac
-date: 2010-10-01
-venue: 'Journal 1'
+date: 2020-10-05
+venue: 'Frontiers in Robotics and AI'
 paperurl: '/files/mrpac.pdf'
 link: 'https://dx.doi.org/10.3389%2Ffrobt.2020.558027'
 citation: "Hyatt P, Johnson CC and Killpack MD (2020) Model Reference Predictive Adaptive Control for Large-Scale Soft Robots. Front. Robot. AI 7:558027. doi: 10.3389/frobt.2020.558027"
