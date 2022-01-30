@@ -3,7 +3,7 @@ title: "Measurement"
 layout: single-portfolio
 excerpt: ""
 collection: projects
-order_number: 30
+diplay_order: 1
 header: 
   og_image: ""
 ---
