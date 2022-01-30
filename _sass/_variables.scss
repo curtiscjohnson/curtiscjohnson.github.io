@@ -49,16 +49,16 @@ $type-size-syntax           : 0.875em;  // ~14px
    ========================================================================== */
 
 $gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
+$dark-gray                  : mix(rgb(0, 0, 0), $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
+$light-gray                 : mix(rgb(233, 232, 232), $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
+$background-color           : rgb(49, 49, 49);
+$code-background-color      : #636363;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
+$text-color                 : $light-gray;
 $border-color               : $lighter-gray;
 
 $primary-color              : #7a8288;
@@ -76,7 +76,6 @@ $foursquare-color           : #0072b1;
 $github-color               : #6e5494;
 $gitlab-color               : #FCA121;
 $google-plus-color          : #dd4b39;
-$googlescholar-color        : #4285f4;
 $instagram-color            : #517fa4;
 $lastfm-color               : #d51007;
 $linkedin-color             : #007bb6;
