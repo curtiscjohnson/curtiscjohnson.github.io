@@ -7,11 +7,11 @@ header:
   og_image: ""
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% for post in site.projects reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 <!-- My research falls into two main areas: understanding the influence of geography
 on actor behavior before, during, and after civil conflict, and developing new
