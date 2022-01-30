@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home - About Me"
+title                    : "Home "
 title_separator          : "-"
 name                     : &name "Curtis C. Johnson"
 description              : &description ""
@@ -226,10 +226,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research
+  # _projects
   - scope:
       path: ""
-      type: research
+      type: projects
     values:
       layout: single
       author_profile: true
