@@ -6,8 +6,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Teaching and Mentoring"
-    url: /teaching-and-mentoring/
+  # - title: "Teaching and Mentoring"
+  #   url: /teaching-and-mentoring/
 
   - title: "Posts"
     url: /posts/
