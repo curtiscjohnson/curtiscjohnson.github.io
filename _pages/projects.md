@@ -22,6 +22,7 @@ This is conglomeration of various personal, class, or reaseach projects. The ide
 {% endfor %}
 
 More project pages are to come:
+
 * Apollo CSM Simulation
 * MRAC Notebook
 * RRT obstacle avoidance with Baxter
