@@ -8,7 +8,7 @@ header:
 ---
 
 
-This is conglomeration of various personal, class, or reaseach projects. The idea is that most research projects turn into some sort of publication.
+This is conglomeration of various personal, class, or reaseach projects. Research projects often turn into papers so check out my [publications page](https://curtiscjohnson.github.io/publications/) as well.
 
 More project pages are to come:
 
