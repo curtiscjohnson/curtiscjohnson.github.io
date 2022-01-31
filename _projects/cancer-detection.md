@@ -1,9 +1,9 @@
 ---
 title: "Cancer Detector"
 layout: single-portfolio
-excerpt: ""
+excerpt: "For this project, I trained a CNN based on the UNET architecture on a database of labelled cancerous cell images. The goal was to predict cancer with >85% accuracy."
 collection: projects
-diplay_order: 1
+diplay_order: 3
 header: 
   og_image: "/images/cancer_detection_ground_truth.png"
 ---
