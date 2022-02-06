@@ -6,11 +6,11 @@ tags:
   - books
 ---
 
-<!-- ![Skunk Works](../images/skunkworkscover.jpg) -->
+![Skunk Works](/images/skunkworkscover.jpg)
 
 I just finished reading *Skunk Works* by Ben Rich. I enjoyed the book and learned quite a lot about the development of stealth technology during the Cold War.
 
-<img src="/curtiscjohnson.github.io/images/skunkworkscover.jpg" alt="Skunk Works" width="200"/>
+<img src="../images/skunkworkscover.jpg" alt="Skunk Works" width="200"/>
 
 For those not aware (as I was not), [Ben Rich](https://en.wikipedia.org/wiki/Ben_Rich) is widely considered to be the father of modern stealth. He took over as the Director of Lockheed Martin's secretive research and development wing called the "Skunk Works" after the retirement of [Kelly Johnson](https://en.wikipedia.org/wiki/Kelly_Johnson_(engineer)), a master aeronautical engineer. Kelly Johnson was responsible for many of the Skunk Works' successes such as the [U2 Spy Plane](https://en.wikipedia.org/wiki/Lockheed_U-2) and its successor, the [SR-71 Blackbird](https://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird).
 
