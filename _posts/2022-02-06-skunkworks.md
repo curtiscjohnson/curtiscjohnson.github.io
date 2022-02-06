@@ -6,7 +6,7 @@ tags:
   - books
 ---
 
-<!-- ![Skunk Works](../images/skunkworkscover.jpg) -->
+![Skunk Works](../images/skunkworkscover.jpg)
 
 I just finished reading *Skunk Works* by Ben Rich. I enjoyed the book and learned quite a lot about the development of stealth technology during the Cold War.
 
