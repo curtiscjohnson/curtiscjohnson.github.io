@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-This is conglomeration of various personal, class, or reaseach projects. Research projects often turn into papers so check out my [publications page](https://curtiscjohnson.github.io/publications/) as well.
+This is a conglomeration of various personal, class, or reaseach projects. Research projects often turn into papers so check out my [publications page](https://curtiscjohnson.github.io/publications/) as well.
 
 More project pages are to come:
 
