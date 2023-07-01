@@ -3,14 +3,11 @@ title: "Cancer Detector"
 layout: single-portfolio
 excerpt: "For this project, I trained a CNN based on the UNET architecture on a database of labelled cancerous cell images. The goal was to predict cancer with >85% accuracy.<br/><img src='/images/500x300.png'>"
 collection: projects
-diplay_order: 3
-# header: 
-#   og_image: "/images/cancer_detection_ground_truth.png"
 ---
 
 For this project, I trained a CNN based on the UNET architecture on a database of labelled cancerous cell images. The goal was to predict cancer with >85% accuracy. (Greater than 85% because that's about the score you'd get with this dataset by predicting everything was non-cancerous.)
 
-The code for this project is [here](https://github.com/curtiscjohnson/deep-learning/blob/main/CancerDetector.ipynb)
+The code for this project is [here.](https://github.com/curtiscjohnson/deep-learning/blob/main/CancerDetector.ipynb)
 
 Here's an example of the dataset and the image that I compare against:
 

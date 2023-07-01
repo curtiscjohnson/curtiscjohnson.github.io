@@ -3,9 +3,6 @@ title: "Character Level RNN"
 layout: single-portfolio
 excerpt: "Trained an RNN on State of the Union Adresses to predict sentences given a few letters."
 collection: projects
-diplay_order: 2
-header: 
-    og_image: ""
 ---
 For this project, I used [Karpathy's char RNN model](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) which is trained on character sequence probabilities.
 
