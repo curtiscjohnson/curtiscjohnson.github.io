@@ -3,8 +3,6 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
-header:
-  og_image: ""
 ---
 
 
@@ -20,7 +18,7 @@ More project pages are to come:
   * Fixed Wing UAV Simulator
   * DH Parameter Optimization
 
-<nbsp>
+<!-- <nbsp> -->
 
 {% include base_path %}
 
