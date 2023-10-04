@@ -1,28 +1,35 @@
 ---
 title: "Flight Dynamics and Controls"
 layout: single-portfolio
-excerpt: "Modeling, simulation, control, estimation, and path planning for a fixed wing UAV. The final result of the project is a simulator built from scratch with implementations of IMU, pressure, and GPS sensors, Extended Kalman Filter and RRT path planning.<br/><img src='/images/flightdynamics.png'>"
+excerpt: "Modeling, simulation, control, estimation, and path planning for a fixed wing UAV. The final result of the project is a simulator built from scratch with implementations of IMU, pressure, and GPS sensors, Extended Kalman Filter and RRT path planning.<br/><img src='/images/flightdynamics.png' width='500'>"
 collection: projects
 ---
 
+This project was a semester long project for Dr. Tim McLain's course on Flight Dynamics and Controls. 
+
+The project was broken into multiple parts:
+
+## Part 1: Modeling and Simulation
+This section tests out control surface simulation by setting various elevator, throttle, rudder, or aileron commands. It doesn't have trim calculated yet, so flight is unstable. It also checks the dynamics simulation of the fixed wing UAV by simply applying forces in different directions and observing the flight path.
+
+{% include youtube.html id="O0wbCJOqsWw" %}
+
+## Part 2: Heading and Altitude Control
+Low level controllers are working! Data plots on the right show commanded heading and altitudes (and corresponding state trajectories) while the left simulates the flight of the UAV.
+
+{% include youtube.html id="PZ5ADEJKhXc" %}
+
+## Part 3: Sensor Modeling and Fusion
+This simulates the flight of the UAV now using sensor data (as opposed to true state data). The sensor data is corrupted with noise (red lines on the plots) and the states are estimated with an EKF. I added IMU, pressure, and GPS sensor models to the simulation. On the right is the sensory output and on the left are the 'true' state trajectories and commands.
+
 {% include youtube.html id="4shBKClj2xA" %}
 
-For this project, I trained a CNN based on the UNET architecture on a database of labelled cancerous cell images. The goal was to predict cancer with >85% accuracy. (Greater than 85% because that's about the score you'd get with this dataset by predicting everything was non-cancerous.)
+## Part 4: Path Planning and Following
+This video demonstrates various types of path following capabilities (e.g. lines and orbits). We describe the longitudinal and lateral tracking problems in terms of a vector field that converges to the desired path.
+This video shows a path planner result through a 'city' of obstacles. The path planner uses Voronoi graphs or an RRT with smoothing to calculate the final displayed trajectory.
 
-The code for this project is [here.](https://github.com/curtiscjohnson/deep-learning/blob/main/CancerDetector.ipynb)
+{% include youtube.html id="2m-Wyjf5mmA" %}
 
-Here's an example of the dataset and the image that I compare against:
 
-![Ground Truth Cancerous Cells](/images/cancer_detection_ground_truth.png "Ground Truth")
-
-Here are some training results where I can predict with 92.5% accuracy where the cancerous cells are:
-
-![Training Results](/images/cancer_detection_loss_accuracy.png "Loss Accuracy Plot")
-
-and the final resulting prediction which can be compared to the ground truth:
-
-![CNN Prediction](/images/cancer_detection_results.png "CNN Prediction")
-
-Not perfect, but does a decent job!
 
 
