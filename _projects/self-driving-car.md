@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Autonomous RC Car"
 layout: single-portfolio
 excerpt: "Our team used a combination of computer vision, controls, and reinforcement learning to autonomously navigate a mini city. Our car is capable of recognizing and responding to signs, stopping at rail road crossings, and staying on the road.<br/><br/><img src='/images/selfdrivingcar.png' width='500'>"
@@ -11,4 +11,4 @@ This project was a semester long project for Dr. D.J. Lee's course on Autonomous
 
 
 
-
+ -->

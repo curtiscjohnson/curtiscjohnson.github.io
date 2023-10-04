@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Flight Dynamics and Controls"
 layout: single-portfolio
 excerpt: "Modeling, simulation, control, estimation, and path planning for a fixed wing UAV. The final result of the project is a simulator built from scratch with implementations of IMU, pressure, and GPS sensors, Extended Kalman Filter and RRT path planning. <br/><br/><img src='/images/flightdynamics.png' width='500'>"
@@ -31,4 +31,4 @@ This video demonstrates various types of path following capabilities (e.g. lines
 
 
 
-
+ -->
