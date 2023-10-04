@@ -5,7 +5,7 @@ excerpt: "Modeling, simulation, control, estimation, and path planning for a fix
 collection: projects
 ---
 
-This project was a semester long project for Dr. Tim McLain's course on Flight Dynamics and Controls. 
+This project was a semester long project for Dr. Tim McLain's course on Flight Dynamics and Controls. The [code](https://github.com/curtiscjohnson/flight_dynamics) is available on Github.
 
 The project was broken into multiple parts:
 
