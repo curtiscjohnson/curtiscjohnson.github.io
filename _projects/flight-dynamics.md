@@ -5,9 +5,7 @@ excerpt: "Modeling, simulation, control, estimation, and path planning for a fix
 collection: projects
 ---
 
-[![Final video of fixing issues in your code in VS Code]
-(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=4shBKClj2xA)
+{% include youtube.html id="4shBKClj2xA" %}
 
 For this project, I trained a CNN based on the UNET architecture on a database of labelled cancerous cell images. The goal was to predict cancer with >85% accuracy. (Greater than 85% because that's about the score you'd get with this dataset by predicting everything was non-cancerous.)
 
