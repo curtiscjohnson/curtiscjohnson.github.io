@@ -2,7 +2,7 @@
 title: 'PneuDrive Submitted to Robosoft 2024'
 date: 2023-11-1
 permalink: /posts/2023/pneudrive-submission
-excerpt: "As part of my PhD work, I designed an embedded pressure control system called PneuDrive for use on a large scale soft robotic torso. <br/><br/><img src='/images/PneuDrive_Boards.png' width='500'>"
+excerpt: "As part of my PhD work, I designed an embedded pressure control system called PneuDrive for use on a large scale soft robotic torso. <br/><br/><img src='/images/PneuDrive_Boards.png' width='400'>"
 tags:
   - robosoft 2024
 ---
