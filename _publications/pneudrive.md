@@ -2,7 +2,7 @@
 title:  "PneuDrive: An Embedded Pressure Control System and Modeling Toolkit for Large-Scale Soft Robots"
 collection: publications
 permalink: /publication/2023-pneudrive
-date: 2023
+date: 2023-11-1
 venue: 'UNDER REVIEW'
 paperurl: '/files/pneudrive.pdf'
 link: ''
