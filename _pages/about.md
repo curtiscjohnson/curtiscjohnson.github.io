@@ -12,7 +12,7 @@ I'm a PhD student working with Dr. Marc Killpack in the Robotics and Dynamics La
 
 Onboard sensory feedback likes tactile sensing, vision, and pressure sensing are crucial for these algorithms to work. While algorithms and autonomous intelligence are exciting, I also enjoy working with hardware -- I believe the field of robotics is best served by working with both. So I've been building a soft robotic torso equipped with distributed tactile sensors to test out the whole body manipulation algorithms I'm developing. 
 
-I'm excited for opportunities to develop robots or any shape or size that augment human capabilites and improve quality of life.
+I'm excited for opportunities to develop robots of any shape or size that augment human capabilites and improve quality of life.
 
 
 
