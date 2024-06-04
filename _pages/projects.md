@@ -8,7 +8,7 @@ author_profile: true
 
 This is a conglomeration of various personal, class, or reaseach projects. Research projects often turn into papers so check out my [publications page](https://curtiscjohnson.github.io/publications/) as well.
 
-More project pages are to come:
+<!-- More project pages are to come:
 
   * Apollo CSM Simulation
   * MRAC Notebook
@@ -16,7 +16,7 @@ More project pages are to come:
   * MuJoCo modeling
   * Mars Rover Arm Design
   * Fixed Wing UAV Simulator
-  * DH Parameter Optimization
+  * DH Parameter Optimization -->
 
 <!-- <nbsp> -->
 

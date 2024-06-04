@@ -3,7 +3,7 @@ title:  "PneuDrive: An Embedded Pressure Control System and Modeling Toolkit for
 collection: publications
 permalink: /publication/2023-pneudrive
 date: 2023-11-1
-venue: 'UNDER REVIEW'
+venue: '2024 7th International Conference on Soft Robotics (RoboSoft)'
 paperurl: '/files/pneudrive.pdf'
 link: ''
 authors: CC Johnson, DG Cheney, DL Cordon, MD Killpack
