@@ -1,7 +1,7 @@
 ---
 title: "Robo Grader"
 layout: single-portfolio
-excerpt: "This project uses SIFT feature matching and some computer vision techniques to automatically grade scantrons. <br/><br/><img src='/images/feature_matching_blue.png'>"
+excerpt: "This project uses SIFT feature matching and some computer vision techniques to automatically grade scantrons. <br/><br/><img src='/images/feature_matching_blue.png' width='500'>"
 collection: projects
 ---
 

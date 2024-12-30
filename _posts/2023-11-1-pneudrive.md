@@ -10,4 +10,4 @@ tags:
 
 This project was presented at Robosoft 2024 in San Diego. The system I designed performs low level pressure control for the soft robotic torso I am using for my PhD work.
 
-{% include youtube.html id="W3JSLqobVT8" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W3JSLqobVT8?si=IFmKqxyBhhJbkLFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
