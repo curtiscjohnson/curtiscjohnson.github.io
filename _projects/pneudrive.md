@@ -1,7 +1,7 @@
 ---
 title: "PneuDrive: Embedded Pressure Control"
 layout: single-portfolio
-excerpt: "An embedded pressure control system I designed for low-level control of pneumatic robots. <br/><br/><img src='/images/PneuDrive_Boards.png'>"
+excerpt: "An embedded pressure control system I designed for low-level control of pneumatic robots. <br/><br/><img src='/images/PneuDrive_Boards.png' width='500'>"
 collection: projects
 ---
 
@@ -51,4 +51,4 @@ for i in range(num_devices):
     data = my_controller.get_pressure_data(i)
 ```
 
-For more info, check out the publication pages [here](/_publications/pneudrive.md).
+For more info, check out my paper [here](https://scholar.google.com/scholar?q=PneuDrive%3A+An+Embedded+Pressure+Control+System+and+Modeling+Toolkit+for+Large-Scale+Soft+Robots)
