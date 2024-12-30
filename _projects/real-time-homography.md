@@ -15,7 +15,7 @@ For this project I used the SIFT feature extraction and detection algorithm to f
 Here's the final result where I replace the image of the research poster with the Mona Lisa:
 
 
-{% include youtube.html id="0PKlAGML8Oc" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0PKlAGML8Oc?si=Nk71DuQ38pnS4UFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
