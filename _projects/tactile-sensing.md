@@ -12,18 +12,22 @@ Typically, tactile sensors are exclusively located at the robot’s end effector
 
 Our work introduces a novel large-area tactile sensing solution designed for whole-arm manipulation. This approach extends sensing capabilities beyond the end effector, enabling robots to handle unpredictable contact patterns across broad surfaces.
 
-<img src='/images/hand_tactile_plot.png' height="400">
+<img src='/images/hand_tactile_plot.png' height="300">
 
 
 The sensor works by measuring the resistance between a conductive layer and a grid of electrodes. When an object contacts the sensor, the resistance changes, providing information about the contact location and pressure.
 
-<img src="/images/tactile_sensor_block_diagram.png" height="400">
+<img src="/images/tactile_sensor_block_diagram.png" height="300">
 
 These sensors can be mounted on a robots structure and help with tasks that might be difficult without a sense of touch, like lifting large and awkward objects. Here's a photo of an early prototype sensor on Baloo while lifting a kayak:
 
 
 
 <p float="left">
-  <img src="/images/baloo-kayak-tactile.png" height="400" />
-  <img src="/images/kayak-tactile-output.png" height="400" /> 
+  <img src="/images/baloo-kayak-tactile.png" height="300" />
+  <img src="/images/kayak-tactile-output.png" height="300" /> 
 </p>
+
+This is pretty important when working closely with humans. 
+
+<image src='/images/dallin-baloo-hug.jpg' height="300">
