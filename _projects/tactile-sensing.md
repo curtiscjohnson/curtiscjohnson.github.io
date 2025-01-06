@@ -12,7 +12,7 @@ Typically, tactile sensors are exclusively located at the robot’s end effector
 
 Our work introduces a novel large-area tactile sensing solution designed for whole-arm manipulation. This approach extends sensing capabilities beyond the end effector, enabling robots to handle unpredictable contact patterns across broad surfaces.
 
-<img src="/images/hand_tactile_plot.png" height="400">
+<img src='/images/hand_tactile_plot.png' height="400">
 
 
 The sensor works by measuring the resistance between a conductive layer and a grid of electrodes. When an object contacts the sensor, the resistance changes, providing information about the contact location and pressure.
